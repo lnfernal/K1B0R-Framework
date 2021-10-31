@@ -1,0 +1,30 @@
+make sure that you have nuitka installed
+
+## HOW TO INSTALL
+
+pip3 install Nuitka
+
+## HOW TO USE
+
+if you know how to crosscompile a python file into an exe on linux based os then go right ahead but if you dont put the payload in a virtual machine that has windows installed
+
+make sure that you have python installed pip install the requirement then do the following
+
+C:\Users\USER\AppData\Local\Programs\Python\Python39\Scripts\nuitka.bat --windows-disable-console --windows-icon-from-ico=icon.ico --windows-product-version=1.1 --windows-company-name=WHATEVER --onefile tcpclient.py
+
+if you want to be able to add an icon make sure that what ever icon you want to use is converted into an ICO then specity the location of it in the "-windows-icon-from-ico=icon.ico" arg.
+
+if you have any questions you can reach my via discord
+
+~Kibi~#5290
+
+if you have any questions comments or concearns please reach my there
+
+reminder this is still the first version of the beta so there is not much to offer yet
+
+DONT SHARE TO ANYONE
+
+if you have this beta project you are one if the selected few that are allowed access to it if you are caught selling, or shareing the product with others you will be eleminated 
+from future beta access and the project its self.
+
+Thank You!

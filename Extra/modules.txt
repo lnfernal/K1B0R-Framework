@@ -1,0 +1,3 @@
+Listener									# Start A listener
+exploit/CVE-2014-6271/ShellShock						# CVE-2014-6271: Apache Web Vulnurability ShellShock
+use exploit/Wordpress/Image_RCE							# WordPress 5.0.0 - Image Remote Code Execution
