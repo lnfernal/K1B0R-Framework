@@ -609,5 +609,5 @@ while (not connected):
     print(Style.BRIGHT + Fore.MAGENTA + '[!] Operating System Target Linux')
 
 elif args.banner == 'show':
-    file = open("~/Desktop/K1B0RFRAMEWORKBETAEARLYACCESS/K1B0RFRAMEWORK/Extra/asciiart.txt", 'r')
+    file = open("~/K1B0RFRAMEWORKBETAEARLYACCESS/K1B0RFRAMEWORK/Extra/asciiart.txt", 'r')
     print(Style.BRIGHT + Fore.MAGENTA + file.read())
