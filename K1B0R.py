@@ -71,7 +71,7 @@ print('\n')
 from colorama import Fore, Style
 
 def show_modules():
-    fileObject = open("/usr/local/K1B0R_FRAMEWORK_BETA/modules.txt", "r")
+    fileObject = open("~/K1B0RFRAMEWORKBETAEARLYACCESS/K1B0RFRAMEWORK/Extra/modules.txt", "r")
     for line in fileObject:
         print(Style.BRIGHT + Fore.CYAN + line)
 
@@ -157,7 +157,7 @@ class wordpress():
 
 class banner:
     def ban1():
-        file = open("C:/Users/narut/Desktop/K1B0R_FRAMEWORK_BETA/K1B0RFRAMEWORK/Extra/asciiart.txt", 'r')
+        file = open("~/K1B0RFRAMEWORKBETAEARLYACCESS/K1B0RFRAMEWORK/Extra/asciiart.txt", 'r')
         print(Style.BRIGHT + Fore.MAGENTA + file.read())
 
 
