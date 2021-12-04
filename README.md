@@ -17,3 +17,7 @@
 # VIRUS TOTAL
 
   https://www.virustotal.com/gui/file/60e42b934795f612e8a5cb4bccb0c0d6041417bb0a91120d989433d4385fc44c?nocache=1
+
+# DEVELOPMENT TEAM
+  K1B0R - Me
+  OreoByte - Creator Of the ascii art and helped with developing the listener
