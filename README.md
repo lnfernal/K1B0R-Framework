@@ -12,3 +12,9 @@ The Framework made for red teamers. This framework has a custom Listener module 
 ## PS
 
 # some of the custom command modules are a bit buggy so if the shell is a bit buggy just restart the framework and start your listener should drop you back into the shell because the payload runs as a background proccess and some of the custom commands are trolls so enjoy yourself here XD
+
+![picture1](https://u.cubeupload.com/PsychoCoder/undetectablebitchhhh.png)<br />
+
+## VIRUS TOTAL
+
+https://www.virustotal.com/gui/file/60e42b934795f612e8a5cb4bccb0c0d6041417bb0a91120d989433d4385fc44c?nocache=1
